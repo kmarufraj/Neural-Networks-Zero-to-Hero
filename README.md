@@ -38,3 +38,23 @@ I’m following along, coding everything from scratch, and documenting the insig
 - **Tools:** Jupyter Notebook for interactive exploration
 
 ---
+
+## 📺 YouTube Links
+
+- [Playlist — Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLp-0K3kfddPyzgAkx6kRfJXj9AQ4I7jpS)
+- [Lecture 1 — The spelled-out intro to neural networks](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [Lecture 2 — The spelled-out intro to backpropagation](https://www.youtube.com/watch?v=PaCmpygFfXo)
+- [Lecture 3 — Building makemore: Part 1](https://www.youtube.com/watch?v=PaCmpygFfXo)
+- [Lecture 4 — Building makemore: Part 2](https://www.youtube.com/watch?v=TCH_1BHY58I)
+- [Lecture 5 — Building GPT from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
+---
+
+## 🙌 Credits
+- **Andrej Karpathy** — Creator of the *Zero to Hero* series  
+- All implementations & notes in this repo are my own.
+
+---
+
+## 📄 License
+MIT License — free to use, modify, and share.
