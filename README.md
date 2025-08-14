@@ -1,0 +1,2 @@
+# Neural-Network-Zero-to-Hero
+Implementations and notes following Andrej Karpathy’s Neural Networks: Zero to Hero series — building neural networks from scratch with Python and understanding the fundamentals step-by-step.
